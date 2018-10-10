@@ -34,6 +34,27 @@ public class FXMLDocumentController implements Initializable {
     private Button btnMutiplicar;
     @FXML
     private Button btnApagar;
+    @FXML
+    private Button btnUm;
+    @FXML
+    private Button btnDois;
+    @FXML
+    private Button btnTres;
+    @FXML
+    private Button btnQuatro;
+    @FXML
+    private Button btnCinco;
+    @FXML
+    private Button btnSeis;
+    @FXML
+    private Button btnSete;
+    @FXML
+    private Button btnOito;
+    @FXML
+    private Button btnNove;
+    @FXML
+    private Button btnZero;
+    
     
     private void handleButtonAction(ActionEvent event) {
         System.out.println("You clicked me!");
